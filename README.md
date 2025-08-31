@@ -1,7 +1,7 @@
 <!-- Profile README for Ravindu-Rasanjana -->
 
 <div align="center">
-  <img src="./banner.jpg" alt="Profile Banner" style="width:100%; height:auto;" />
+  <img src="./readme_banner.jpg" alt="Profile Banner" style="width:100%; height:auto;" />
   <h1>Hi, I'm Ravindu Rasanjana 👋</h1>
   <p>
     <b>Information Systems Undergraduate</b><br>
