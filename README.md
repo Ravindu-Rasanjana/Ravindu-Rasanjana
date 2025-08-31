@@ -1,7 +1,7 @@
 <!-- Profile README for Ravindu-Rasanjana -->
 
 <div align="center">
-  <img src="./banner.jpg" width="120" alt="Profile Banner"/>
+  <img src="./banner.jpg" alt="Profile Banner" style="width:100%; height:auto;" />
   <h1>Hi, I'm Ravindu Rasanjana 👋</h1>
   <p>
     <b>Information Systems Undergraduate</b><br>
@@ -43,9 +43,9 @@ I’m an enthusiastic Information Systems undergraduate at UCSC, passionate abou
 ## 📂 Featured Projects
 
 <!-- Add your favorite projects below with short descriptions or links -->
-- **Smart Home Automation System** – IoT project connecting sensors and devices.
-- **Personal Portfolio Website** – Built with HTML, CSS, JS, and Figma designs.
-- **Java/Kotlin Mini Apps** – Various small applications for coursework and fun.
+- **Smart Crowd Monitoring and Safety System** – IoT project connecting sensors and devices.
+- **Fitness Management Website** – Built with HTML, CSS, JS, and Figma designs.
+- **Mobile Compiler** –An Android app that compiles Java, Kotlin, C, C++, and Python.
 
 ---
 
@@ -53,9 +53,9 @@ I’m an enthusiastic Information Systems undergraduate at UCSC, passionate abou
 
 Feel free to reach out if you want to collaborate or just say hi!
 
-- Email: [your.email@domain.com](mailto:your.email@domain.com)
-- [LinkedIn](#) <!-- Add your LinkedIn URL if you want -->
-- [Personal Website](#) <!-- Add your website URL if you want -->
+- Email: [ravras17@gmail.com](mailto:ravras17@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/ravindurasanjana/) <!-- Add your LinkedIn URL if you want -->
+- [Instagram](https://www.instagram.com/ravindu_insta/) <!-- Add your website URL if you want -->
 
 ---
 
