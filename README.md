@@ -59,10 +59,6 @@ Feel free to reach out if you want to collaborate or just say hi!
 
 ---
 
-<div align="center">
-  <img src="https://svgshare.com/i/13uC.svg" width="80" alt="Tech Graphic"/>
-</div>
-
 <!--
   You can enhance this README with GitHub stats, activity graphs, or more graphics!
 -->
