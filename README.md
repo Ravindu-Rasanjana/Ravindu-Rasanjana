@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="./readme_banner.jpg" alt="Profile Banner" style="width:100%; height:auto;" />
-  <!--<h1>Hi, I'm Ravindu Rasanjana</h1>-->
+  <h1>Hi, I'm Ravindu Rasanjana</h1>
   <p>
     <b>Information Systems Undergraduate</b><br>
     <a href="https://ucsc.cmb.ac.lk/">University of Colombo School of Computing</a>
