@@ -44,7 +44,7 @@ I’m an enthusiastic Information Systems undergraduate at UCSC, passionate abou
 
 <!-- Add your favorite projects below with short descriptions or links -->
 - **Smart Crowd Monitoring and Safety System** – IoT project connecting sensors and devices.
-- **Fitness Management Website** – Built with HTML, CSS, JS, and Figma designs.
+- **Fitness Management Website** – Built with HTML, CSS, PHP, JS, and Figma designs.
 - **Mobile Compiler** –An Android app that compiles Java, Kotlin, C, C++, and Python.
 
 ---
